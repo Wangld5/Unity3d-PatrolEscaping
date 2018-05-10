@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2a27c6f4dc4ba3b41a612181c599d80b
+timeCreated: 1491835890
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PatrolItem: {fileID: 1959644049406380, guid: 0b6a7bb3f18b067438f7db52cbb219d9,
+      type: 2}
+  - HeroItem: {fileID: 1145044986486434, guid: 228d0b36bcbca4e47a431ba734684c6b, type: 2}
+  - sceneModelItem: {fileID: 1201566245412548, guid: 89d923caeec0f4e4eafe1a137275da27,
+      type: 2}
+  - canvasItem: {fileID: 1900442803136092, guid: 5ce82977c93c7af408b827cb07c09057,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

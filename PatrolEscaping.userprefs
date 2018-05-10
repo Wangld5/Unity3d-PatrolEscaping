@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\scripts 1\GameModel.cs">
+    <Files>
+      <File FileName="Assets\Resources\scripts 1\GameStatus.cs" Line="14" Column="26" />
+      <File FileName="Assets\Resources\scripts 1\UserInterface.cs" Line="8" Column="32" />
+      <File FileName="Assets\Resources\scripts 1\HeroStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts 1\PatrolFactory.cs" Line="37" Column="10" />
+      <File FileName="Assets\Resources\scripts 1\GameModel.cs" Line="112" Column="23" />
+      <File FileName="Assets\Resources\scripts 1\SceneController.cs" Line="23" Column="5" />
+      <File FileName="Assets\Resources\scripts 1\CCSequeneActions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts 1\CanvasStatus.cs" Line="48" Column="4" />
+      <File FileName="Assets\Resources\scripts 1\PatrolStatus.cs" Line="69" Column="25" />
+      <File FileName="Assets\Resources\scripts 1\SSActionManager.cs" Line="49" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
